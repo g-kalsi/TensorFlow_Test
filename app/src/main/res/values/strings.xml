@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gurkeerat_TF_App</string>
+    <string name="items_detected_0">ITEMS DETECTED: 0</string>
+    <string name="threshold">Threshold</string>
+    <string name="_0_5f">0.5f</string>
+    <string name="_50">50%</string>
+</resources>
